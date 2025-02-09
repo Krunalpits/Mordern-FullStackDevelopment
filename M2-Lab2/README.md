@@ -1,1 +1,1 @@
-
+This project is a front-end web form for adding employees to an Employee Management System. It uses Bootstrap for styling and JavaScript for processing form submissions. The form includes fields for Employee ID, Name, Extension, Email, Department, and a Submit button. Upon submission, the form displays the entered values in the browser console. The project emphasizes concise and efficient code with modern JavaScript practices.
